@@ -1,0 +1,2 @@
+# gettingstarted
+Setup your environment! 
